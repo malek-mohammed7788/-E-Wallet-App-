@@ -1,16 +1,9 @@
-# project_my
+Designed a clean and user-centric interface for a mobile wallet application, emphasizing intuitive navigation and smooth user interaction across all key functionalities.
 
-A new Flutter project.
+Focused on delivering a minimalistic yet engaging design, enabling effortless access to essential features such as transactions, balance monitoring, and account settings.
 
-## Getting Started
+Optimized the interface for full responsiveness, ensuring a consistent and reliable experience across various mobile devices and screen dimensions.
 
-This project is a starting point for a Flutter application.
+Implemented a visually attractive design guided by modern UI standards, balancing aesthetics with clarity to create a polished and professional user interface.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Refined the user journey by simplifying processes and reducing steps for common actions, resulting in improved usability, increased efficiency, and greater user satisfaction.
