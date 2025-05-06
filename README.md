@@ -63,6 +63,8 @@ You can showcase your UI here:
 ---
 
 ## 📩 Contact  
-Feel free to reach out for collaboration or inquiries:  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn | Portfolio | Other links]
+Feel free to reach out for collaboration or inquiries:
+
+- 📧 **Email:** malekaledresi@hotmail.com  
+- 🔗 **LinkedIn:** [Malek Mohammed](https://www.linkedin.com/in/malek-mohammed-0a487720b)
+
