@@ -48,9 +48,9 @@ This project presents a **clean, user-centric mobile wallet application** interf
 
 | الصفحة الرئيسية | العروض وشحن الرصيد | الإعدادات | تأكيد الإرسال |
 |------------------|----------------------|-------------|------------------|
-| ![Home](../mnt/data/Screenshot_20250628_174005.png) | ![Offers](../mnt/data/Screenshot_20250628_174019.png) | ![Settings](../mnt/data/Screenshot_20250628_174221.png) | ![Confirmation](../mnt/data/Screenshot_20250628_175229.png) |
+| ![Home](screenshots/Screenshot_20250628_174005.png) | ![Offers](screenshots/Screenshot_20250628_174019.png) | ![Settings](screenshots/Screenshot_20250628_174221.png) | ![Confirmation](screenshots/Screenshot_20250628_175229.png) |
 
-> 💡 **ملاحظة:** تأكد من وضع الصور داخل مجلد `screenshots/` في مجلد المشروع إذا كنت تنوي رفعه إلى GitHub، وتحديث المسارات لتتناسب مع ذلك.
+> 💡 **ملاحظة:** تأكد من وضع الصور داخل مجلد `screenshots/` في مجلد المشروع ليتم عرضها بشكل صحيح في GitHub أو أي منصة توثيق تدعم Markdown.
 
 ---
 
