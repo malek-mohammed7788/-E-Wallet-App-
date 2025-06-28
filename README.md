@@ -1,9 +1,9 @@
-# 💼 Mobile Wallet Application  
+# 💼 Mobile Wallet Application
 **Developed by Eng. Malek Mahommad**
 
 ---
 
-## 🧩 Overview  
+## 🧩 Overview
 This project presents a **clean, user-centric mobile wallet application** interface, crafted with a strong emphasis on usability, responsiveness, and modern design principles. The app provides a seamless digital financial experience, allowing users to easily access and manage key functionalities such as transactions, balance monitoring, and account settings.
 
 ---
@@ -46,13 +46,11 @@ This project presents a **clean, user-centric mobile wallet application** interf
 
 ## 📸 Screenshots
 
-You can showcase your UI here:
+| الصفحة الرئيسية | العروض وشحن الرصيد | الإعدادات | تأكيد الإرسال |
+|------------------|----------------------|-------------|------------------|
+| ![Home](../mnt/data/Screenshot_20250628_174005.png) | ![Offers](../mnt/data/Screenshot_20250628_174019.png) | ![Settings](../mnt/data/Screenshot_20250628_174221.png) | ![Confirmation](../mnt/data/Screenshot_20250628_175229.png) |
 
-| Home Screen | Transactions | Balance View |
-|-------------|--------------|---------------|
-| ![Home](screenshots/home.png) | ![Transactions](screenshots/transactions.png) | ![Balance](screenshots/balance.png) |
-
-> Make sure to place your screenshots inside a `screenshots/` folder in the repository.
+> 💡 **ملاحظة:** تأكد من وضع الصور داخل مجلد `screenshots/` في مجلد المشروع إذا كنت تنوي رفعه إلى GitHub، وتحديث المسارات لتتناسب مع ذلك.
 
 ---
 
@@ -67,4 +65,3 @@ Feel free to reach out for collaboration or inquiries:
 
 - 📧 **Email:** malekaledresi@hotmail.com  
 - 🔗 **LinkedIn:** [Malek Mohammed](https://www.linkedin.com/in/malek-mohammed-0a487720b)
-
