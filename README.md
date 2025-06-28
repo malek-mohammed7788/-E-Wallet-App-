@@ -50,9 +50,6 @@ This project presents a **clean, user-centric mobile wallet application** interf
 | الصفحة الرئيسية | عروض فورية - شاشة 1 | عروض فورية - شاشة 2 | الإعدادات |
 |------------------|----------------------|----------------------|-------------|
 | ![Home](screenshots/Home_Screen.png) | ![Offers1](screenshots/Price_screen_1.png) | ![Offers2](screenshots/price_screen_2.png) | ![Settings](screenshots/Setting_Screen.png) |
-
-> 💡 **ملاحظة:** تأكد من وضع الصور داخل مجلد `screenshots/` في مجلد المشروع ليتم عرضها بشكل صحيح في GitHub أو أي منصة توثيق تدعم Markdown.
-
 ---
 
 ## 🙌 Credits  
